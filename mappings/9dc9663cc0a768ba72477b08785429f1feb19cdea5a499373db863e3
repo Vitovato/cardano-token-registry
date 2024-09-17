@@ -1,0 +1,30 @@
+{
+  "subject": "9dc9663cc0a768ba72477b08785429f1feb19cdea5a499373db863e346726f6720414441",
+  "name": {
+    "value": "Frog ADA Token" 
+  },
+  "description": {
+    "value": "The First and Only real Frog ADA"
+  },
+  "ticker": {
+    "value": "FADA"
+  },
+  "url": {
+    "value": "https://frogada.xyz/"
+  },
+  "logo": {
+    "value": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABCgAAAQoCAIAAABHCnirAAEAAElEQVR4nOz9a5fkyJElCN4rqoCZu8czI5OZfCVZZBW7+nT3dtec...",
+    "type": "image/png"
+  },
+  "decimals": {
+    "value": 6
+  },
+  "policy": {
+    "value": "9dc9663cc0a768ba72477b08785429f1feb19cdea5a499373db863e3"
+  },
+  "social": {
+    "twitter": {
+      "value": "https://x.com/FrogADACardano"
+    }
+  }
+}
